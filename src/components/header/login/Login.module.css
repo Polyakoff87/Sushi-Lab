@@ -1,0 +1,46 @@
+.login {
+  position: relative;
+  border-radius: 35px;
+  text-align: center;
+}
+
+.login a {
+  color: #000;
+  text-align: center;
+  text-decoration: none;
+}
+
+.login a:hover {
+  color: #abe35f;
+}
+
+.login_btn {
+  width: 70px;
+  height: 70px;
+  background: transparent;
+  background-image: url(../../../pictures/login.png);
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+  background-position: 8px 0;
+  border-radius: 50%;
+  margin-top: 2px;
+}
+
+.login_btn:hover {
+  background: #abe35f;
+  background-image: url(../../../pictures/login.png);
+  background-repeat: no-repeat;
+  background-size: 50px 50px;
+  background-position: 8px 0;
+  cursor: pointer;
+}
+
+.output {
+  display: block;
+  height: 19px;
+  color: #000;
+  font-size: 0.8em;
+  margin: 0;
+  cursor: default;
+  cursor: pointer;
+}

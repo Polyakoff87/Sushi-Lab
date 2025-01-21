@@ -1,0 +1,70 @@
+.wrapper {
+  display: flex;
+  flex-wrap: wrap;
+  font-size: 80%;
+  color: #fff;
+  width: 66%;
+  min-height: 85vh;
+  padding: 0px 15% 0px 15%;
+}
+
+.card {
+  width: 250px;
+  height: 280px;
+  border-radius: 35px;
+  margin: 30px;
+  box-shadow: -10px 10px 20px 2px #000;
+  display: grid;
+  grid-template-rows: 200px 80px;
+  grid-template-columns: 1fr;
+}
+
+@keyframes blink {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.7;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.card:hover {
+  animation: blink 1.2s both;
+  cursor: pointer;
+}
+
+.img {
+  grid-row: 1/2;
+  grid-column: 1;
+}
+
+.text {
+  grid-row: 2/3;
+  grid-column: 1;
+  text-align: center;
+  padding: 5px;
+  position: relative;
+}
+
+.price {
+  margin: 10px;
+  font-size: 90%;
+  color: #abe35f;
+}
+
+.addToBusketBtn {
+  background: #abe35f;
+  border-radius: 7px;
+}
+
+.addToBusketBtn:hover {
+  background: #f56433;
+  cursor: pointer;
+}
+
+.addToBusketBtn:active {
+  background: #221b20;
+}

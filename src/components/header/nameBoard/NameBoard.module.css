@@ -1,0 +1,23 @@
+.nameBoard {
+  width: 600px;
+  height: 160px;
+  background: url(../../../pictures/theme.png) no-repeat;
+  background-position: center;
+  border-radius: 35px;
+  text-align: center;
+  font-family: "Black Ops One", cursive;
+  font-size: 4.5em;
+  color: #000;
+  align-self: stretch;
+}
+
+.nameBoard a {
+  text-decoration: none;
+  transition: 0.5s all;
+  color: #abe35f;
+}
+
+.nameBoard a:hover {
+  font-size: 110%;
+  color: #abe35f;
+}

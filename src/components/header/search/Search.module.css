@@ -1,0 +1,11 @@
+.search {
+  background: #fff;
+  width: auto;
+  height: 30px;
+  border-radius: 13px;
+  position: relative;
+  font-family: "Stalinist One", cursive;
+  font-size: 1em;
+  text-align: center;
+  background-position: 8px 2px;
+}

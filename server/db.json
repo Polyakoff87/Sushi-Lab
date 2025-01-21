@@ -1,0 +1,288 @@
+{
+  "goods": [
+    {
+      "rolls": [
+        {
+          "id": "1",
+          "name": "Ролл запеченный с креветкой",
+          "url": "pictures/rolls/Запеченый с креветкой.jpg",
+          "cost": 360
+        },
+        {
+          "id": "2",
+          "name": "Ролл запеченный с лососем",
+          "url": "pictures/rolls/Запеченый с лососем.jpg",
+          "cost": 410
+        },
+        {
+          "id": "3",
+          "name": "Калифорния",
+          "url": "pictures/rolls/Калифорния.jpg",
+          "cost": 390
+        },
+        {
+          "id": "4",
+          "name": "Ролл с креветкой и чили",
+          "url": "pictures/rolls/Креветка с чили.jpg",
+          "cost": 350
+        },
+        {
+          "id": "5",
+          "name": "Ролл с лососем",
+          "url": "pictures/rolls/С лососем.jpg",
+          "cost": 400
+        },
+        {
+          "id": "6",
+          "name": "Ролл с лососем и манго",
+          "url": "pictures/rolls/С лососем и манго.jpg",
+          "cost": 380
+        },
+        {
+          "id": "7",
+          "name": "Ролл с снежным крабом",
+          "url": "pictures/rolls/С снежным крабом.jpg",
+          "cost": 330
+        },
+        {
+          "id": "8",
+          "name": "Ролл в темпуре с креветкой",
+          "url": "pictures/rolls/Темпура с креветкой.jpg",
+          "cost": 345
+        },
+        {
+          "id": "9",
+          "name": "Филадельфия с угрем",
+          "url": "pictures/rolls/Фила с угрем.jpg",
+          "cost": 380
+        }
+      ]
+    },
+    {
+      "soups": [
+        {
+          "id": "1",
+          "name": "Борщ",
+          "url": "pictures/soups/Борщ.jpg",
+          "cost": 360
+        },
+        {
+          "id": "2",
+          "name": "Грибной крем суп",
+          "url": "pictures/soups/Грибной крем суп.jpg",
+          "cost": 410
+        },
+        {
+          "id": "3",
+          "name": "Кимчи",
+          "url": "pictures/soups/Кимчи.jpg",
+          "cost": 390
+        },
+        {
+          "id": "4",
+          "name": "Куриный суп с лапшой",
+          "url": "pictures/soups/Куриный с лапшой.jpg",
+          "cost": 350
+        },
+        {
+          "id": "5",
+          "name": "Мисо",
+          "url": "pictures/soups/Мисо.jpg",
+          "cost": 400
+        },
+        {
+          "id": "6",
+          "name": "Рамен с говядиной",
+          "url": "pictures/soups/Рамен с говядиной.jpg",
+          "cost": 380
+        },
+        {
+          "id": "7",
+          "name": "Солянка с мясом",
+          "url": "pictures/soups/Солянка с мясом.jpg",
+          "cost": 330
+        },
+        {
+          "id": "8",
+          "name": "Том ям",
+          "url": "pictures/soups/Том ям.jpg",
+          "cost": 345
+        },
+        {
+          "id": "9",
+          "name": "Финская уха с лососем",
+          "url": "pictures/soups/Финская уха с слососем.jpg",
+          "cost": 380
+        }
+      ]
+    },
+    {
+      "sushi": [
+        {
+          "id": "1",
+          "name": "Кунсей спайс",
+          "url": "pictures/sushi/Кунсей спайс.jpg",
+          "cost": 360
+        },
+        {
+          "id": "2",
+          "name": "Магуро спайс",
+          "url": "pictures/sushi/Магуро спайс.jpg",
+          "cost": 410
+        },
+        {
+          "id": "3",
+          "name": "Сяке",
+          "url": "pictures/sushi/Сяке.jpg",
+          "cost": 390
+        },
+        {
+          "id": "4",
+          "name": "Сяке спайс",
+          "url": "pictures/sushi/Сяке спайс.jpg",
+          "cost": 350
+        },
+        {
+          "id": "5",
+          "name": "Унаги",
+          "url": "pictures/sushi/Унаги.jpg",
+          "cost": 400
+        },
+        {
+          "id": "6",
+          "name": "Унаги спайс",
+          "url": "pictures/sushi/Унаги спайс.jpg",
+          "cost": 380
+        },
+        {
+          "id": "7",
+          "name": "Хотатэ спайс",
+          "url": "pictures/sushi/Хотатэ спайс.jpg",
+          "cost": 330
+        },
+        {
+          "id": "8",
+          "name": "Эби",
+          "url": "pictures/sushi/Эби.jpg",
+          "cost": 345
+        },
+        {
+          "id": "9",
+          "name": "Эби хот",
+          "url": "pictures/sushi/Эби хот.jpg",
+          "cost": 380
+        }
+      ]
+    },
+    {
+      "salads": [
+        {
+          "id": "1",
+          "name": "Цезарь с креветками с курицей",
+          "url": "pictures/salads/Греческий.jpg",
+          "cost": 345
+        },
+        {
+          "id": "2",
+          "name": "Греческий",
+          "url": "pictures/salads/С креветкаит и манго.jpg",
+          "cost": 360
+        },
+        {
+          "id": "3",
+          "name": "Салат со стрипсами и беконом",
+          "url": "pictures/salads/С чукой.jpg",
+          "cost": 350
+        },
+        {
+          "id": "4",
+          "name": "Салат с креветками и манго",
+          "url": "pictures/salads/Со стрипсами и беконом.jpg",
+          "cost": 410
+        },
+        {
+          "id": "5",
+          "name": "Салат с чукой",
+          "url": "pictures/salads/Теплый с говядиной.jpg",
+          "cost": 390
+        },
+        {
+          "id": "6",
+          "name": "Теплый салат с говядиной",
+          "url": "pictures/salads/Теплый с курицей.jpg",
+          "cost": 400
+        },
+        {
+          "id": "7",
+          "name": "Теплый салат с курицей",
+          "url": "pictures/salads/Цезарь с креветками.jpg",
+          "cost": 380
+        },
+        {
+          "id": "8",
+          "name": "Цезарь с креветками",
+          "url": "pictures/salads/Цезарь с курицей.jpg",
+          "cost": 330
+        }
+      ]
+    },
+    {
+      "sets": [
+        {
+          "id": "1",
+          "name": "Кадзоку",
+          "url": "pictures/sets/Кадзоку.jpg",
+          "cost": 360
+        },
+        {
+          "id": "1",
+          "name": "Калифорния",
+          "url": "pictures/sets/Калифорния.jpg",
+          "cost": 410
+        },
+        {
+          "id": "1",
+          "name": "Нику",
+          "url": "pictures/sets/Нику.jpg",
+          "cost": 390
+        },
+        {
+          "id": "1",
+          "name": "Сайтама",
+          "url": "pictures/sets/Сайтама.jpg",
+          "cost": 350
+        },
+        {
+          "id": "1",
+          "name": "Санкай",
+          "url": "pictures/sets/Санкай.jpg",
+          "cost": 400
+        },
+        {
+          "id": "1",
+          "name": "Сакура",
+          "url": "pictures/sets/Сакура.jpg",
+          "cost": 380
+        },
+        {
+          "id": "1",
+          "name": "Темпура",
+          "url": "pictures/sets/Темпура.jpg",
+          "cost": 330
+        },
+        {
+          "id": "1",
+          "name": "Филадельфия",
+          "url": "pictures/sets/Филадельфия.jpg",
+          "cost": 345
+        },
+        {
+          "id": "1",
+          "name": "Фунэ",
+          "url": "pictures/sets/Фунэ.jpg",
+          "cost": 380
+        }
+      ]
+    }
+  ]
+}

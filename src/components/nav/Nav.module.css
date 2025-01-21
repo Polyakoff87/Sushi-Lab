@@ -1,0 +1,39 @@
+.menu {
+ display: flex;
+  margin: 0;
+  padding: 0;
+  justify-content: space-around;
+  align-items: center;
+  background: #181a1b;
+  height: 50px;
+}
+
+.menu a {
+  font-size: 95%;
+  color: #fff;
+  display: block;
+  padding: 5px;
+  text-decoration: none;
+}
+
+@keyframes pulsate-bck {
+  0% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+  50% {
+    -webkit-transform: scale(0.9);
+    transform: scale(0.9);
+  }
+  100% {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+  }
+}
+
+
+
+.menu a:hover {
+  color: #abe35f;
+  animation: pulsate-bck 0.5s ease-in-out infinite both;
+}
