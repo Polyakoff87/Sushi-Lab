@@ -1,6 +1,6 @@
 import React from "react";
 import styles from "./MenuElement.module.css";
-import { useDispatch, useSelector } from "react-redux";
+import { useDispatch} from "react-redux";
 import { addToBusket } from "../../features/busketSlice";
 import axios from "axios";
 import { useState, useEffect } from "react";

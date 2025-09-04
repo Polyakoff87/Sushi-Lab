@@ -4,7 +4,7 @@
   color: #fff;
   min-height: 100vh;
   justify-content: space-around;
-  
+  text-align: center;
 }
 
 .card {
@@ -38,11 +38,11 @@
 }
 
 .span {
-  margin: 0 auto;
+  /* margin: 0 auto; */
   font-size: 20px;
 }
 .output {
-  margin-left: 460px;
+  /* margin: 0 auto; */
   font-size: 20px;
   color: #fff;
 }
